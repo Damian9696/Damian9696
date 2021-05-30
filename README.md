@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damian9696
-- 👀 I’m interested in Android Technology
+- 👀 I'm interested in Android and Flutter technologies
 - 🌱 I’m currently learning Flutter
 - 💞️ I want to collaborate on projects with great people with lots of energy and enthusiasm. I want to be part of a team that, like me, likes challenges and has a positive attitude to work.
 - 📫 You can reach me too on Linkedin: www.linkedin.com/in/damian-ogórek-302359184
